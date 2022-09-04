@@ -4,7 +4,7 @@ function App() {
   
   return (
     <div className="app">
-      Simple Counter
+      Hello Suraj
     </div>
   );
 }
